@@ -1,4 +1,4 @@
-curl --proto '=https' --tlsv1.2 -sSf https://sh.
+curl --proto '=https' --tlsv1.2 -sSf https://
 
 source $HOME/.cargo/env
 

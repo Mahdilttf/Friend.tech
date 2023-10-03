@@ -8,7 +8,7 @@ rustup update stable
 
 rustup default stable
 
-git clone https://github.com/AleoHQ/leo
+git clone https://github.com/AleoHQ/
 cd leo
 
 apt install clang gcc libssl-dev pkg

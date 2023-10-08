@@ -1,6 +1,6 @@
 curl --proto '=https' --tlsv1.2 -sSf
 
-source $HOME/.cargo/env
+source $HOME/
 
 rustup install stable
 

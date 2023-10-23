@@ -11,7 +11,7 @@ rustup default stable
 git clone https://github.com/
 cd leo
 
-apt install clang gcc libssl-dev pkg
+apt install clang gcc libssl
 
 cargo install --path .
 

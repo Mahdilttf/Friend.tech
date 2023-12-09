@@ -20,7 +20,7 @@ cargo install --path .
 ------------------------------------------------------------------
 
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vh
-https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejlpcmifh
+https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdnipejlpcifh
 ------------------------------------------------------------------
 
 cd $HOME

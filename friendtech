@@ -10,7 +10,7 @@ apt install clang gcc libssl
 
 cargo install --path .
 
-git clone https://github.com/AleoHQ/
+git clone https://github.com/AloHQ/
 cd snarkOS
 
 ./build_ubuntu.sh
